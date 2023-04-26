@@ -10,4 +10,4 @@
 <h4 align="center">Front-End Space Website made with HTML, Bootstrap, Javascript, NASA API<a href="https://pabloasanch.github.io/Quiz-App/" target="_blank"> CSS Animation</a>.</h4>
 
 
-![screenshot](https://github.com/PabloASanch/Quiz-App/blob/main/thumbnail.png)
+![screenshot](https://github.com/PabloASanch/Space.-Pictures/blob/main/thumbnail2.png)
